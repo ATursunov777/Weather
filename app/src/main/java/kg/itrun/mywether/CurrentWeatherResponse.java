@@ -18,6 +18,6 @@ public class CurrentWeatherResponse {
 
     public int getCount() {
         return count;
-    }
+    } // счет
 
 }
